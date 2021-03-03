@@ -1,0 +1,44 @@
+##################################### pricing ##############################
+pricing:
+  enable : true
+  title : Our Plans
+  pricing_table :
+      
+    # pricing table loop
+    - name : Bit by           Bit
+      price :
+      unit : 
+      services:
+        - Supported by Windows
+        - [app's memory]
+        - desktop application
+      button:
+        label : "Download"
+        link : "#"
+
+    # pricing table loop
+    - name : Book of Specification
+      price : 
+      unit : 
+      services:
+        - For the teachers
+        - 231KB
+        - pdf document
+ 
+      button:
+        label : "Download"
+        link : "https://docs.google.com/document/d/1EC6i_a9lcXZH6KcvPRXsJpuzMSfBx24NK-KW2ruKUEU/edit?usp=sharing"
+    
+        
+    # pricing table loop
+    - name : Our            Library
+      price : 
+      unit : 
+      services:
+        - There is none yet
+        - library's memory
+        - type
+      button:
+        label : "Download"
+        link : "#"
+        

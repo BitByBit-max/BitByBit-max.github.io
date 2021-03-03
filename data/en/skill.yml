@@ -1,0 +1,25 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Our Progress
+  subtitle : Patience! It takes time to develop an entire desktop app.
+  content : We are right on schedule for now. Here is an insider view on what we have done so far.
+  skill_item :
+    # skill item loop
+    - name :  Database
+      percent : 20%
+      
+    # skill item loop
+    - name :  Levels
+      percent : 30%
+      
+    # skill item loop
+    - name :  Design
+      percent : 30%
+      
+    - name :  Compiler and test-runs
+      percent : 15%
+      
+    # skill item loop
+    - name :  Lectures
+      percent : 95%

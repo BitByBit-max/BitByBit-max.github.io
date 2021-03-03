@@ -1,0 +1,28 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : Don't hesitate to contact us if you have any question, issue, or you just want to chat with not very cool people.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Epita, 66 rue Guy Moquet, Villejuif"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Don't call this number: 06 06 06 06 06"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: bitbybit@gmail.com "
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"
